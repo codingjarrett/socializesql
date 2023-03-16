@@ -1,5 +1,5 @@
 # socializesql
-This is the repository for the eighteenth bootcamp challenge ().
+This is the repository for the eighteenth bootcamp challenge (Social Network API).
 
 ## NoSQL Challenge: Social Network API
 
