@@ -6,16 +6,16 @@ This is the repository for the eighteenth bootcamp challenge ().
 A simple API built using Express.js and MongoDB for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## Table of Contents
---Technologies Used
---Getting Started
---Walkthrough Video
---Contributors
+* --Technologies Used
+* --Getting Started
+* --Walkthrough Video
+* --Contributors
 
 ## Technologies Used
-Node.js
-Express.js
-MongoDB
-Mongoose ODM
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose ODM
 
 ## Getting Started
 To start the server, run the following command:
